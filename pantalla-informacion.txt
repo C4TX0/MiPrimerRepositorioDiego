@@ -1,1 +1,3 @@
 Simulado de desarrollo de la pantalla de informacion
+
+mostrar productos 
