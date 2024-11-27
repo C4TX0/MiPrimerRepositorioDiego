@@ -1,1 +1,2 @@
 Se desarrolla la Pantalla producto
+usamos anuncios para comprar y despues revender el producto.
